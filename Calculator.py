@@ -6,6 +6,6 @@ class Calculator():
     def add(self):
         return self.a + self.b
     
-rnde
+rndehb
 a=Calculator(34,35)
 print(a.add())
